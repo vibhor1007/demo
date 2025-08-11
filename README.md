@@ -1,4 +1,4 @@
 # demo
 learning git for CI/CD
 <br>
-Author: Vibhor
+Author: Vibhor Kataria
